@@ -9,6 +9,8 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
+ /**test */
+@property (nonatomic , strong)NSString *name;
 
 @end
 
